@@ -1,0 +1,5 @@
+*.sym
+*.xise
+*.ncd
+remote_sources
+iseconfig
